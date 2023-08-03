@@ -50,6 +50,15 @@
 </a>
 </p>
 <p align="center">
+<a href="https://github.com/Hammad8980/GameXoria">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=GameXoria&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Hammad8980/Dice-game">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=Dice-game&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+<p align="center">
 <a href="https://github.com/Hammad8980/website">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=website&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
