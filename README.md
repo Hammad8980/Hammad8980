@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.dribbble.com/users/34020/screenshots/3121924/spaceship_main_13fps_final.gif" style="width:100%; opacity:0.2;" />
+<img src="https://cdn.dribbble.com/users/34020/screenshots/3121924/spaceship_main_13fps_final.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Mehmood</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
