@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=3840&q=75">
+<img src="https://cdn.dribbble.com/users/34020/screenshots/3121924/spaceship_main_13fps_final.gif" style="width:100%; opacity:0.2;" />
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Mehmood</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
