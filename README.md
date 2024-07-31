@@ -2,11 +2,11 @@
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4e0d816kuzyu700pdbjn.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Mehmood</h1>
-<h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad898&label=Profile%20views&color=0e75b6&style=flat" alt="hammad898" /> </p>
 
-- 🔭 I’m currently working on [GameXoria](https://hammad8980.github.io/GameXoria/) , which is an online gaming store meant for true gamers!
+- 🔭 I’m currently working on [TalentBase.AI](https://github.com/Hammad8980/TalentBase.AI) , which is an online platform for Students/Teachers/Industrialists to showcase their talent!
 
 - 🌱 I excel in **MERN / Next.js and ASP.NET alongwith Blazor for both frontend and Backend web application**
 
