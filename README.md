@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.dribbble.com/users/34020/screenshots/3121924/spaceship_main_13fps_final.gif"/>
+<img src="https://cdn.dribbble.com/users/34020/screenshots/3121924/spaceship_main_13fps_final.jpg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Mehmood</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [GameXoria](https://hammad8980.github.io/GameXoria/) , which is an online gaming store meant for true gamers!
 
-- 🌱 I’m currently learning **ReactJS for frontend web applications and .NET alongwith Blazor for both frontend and Backend web application**
+- 🌱 I excel in **MERN / Next.js and ASP.NET alongwith Blazor for both frontend and Backend web application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hammad8980?tab=repositories](https://github.com/Hammad8980?tab=repositories)
 
