@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4e0d816kuzyu700pdbjn.png"/>
+<img src="https://i.pinimg.com/736x/ea/4e/71/ea4e7188220c4496d9e0b464a597d98f.jpg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Hammad Mehmood</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan!</h3>
