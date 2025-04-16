@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad898&label=Profile%20views&color=0e75b6&style=flat" alt="hammad898" /> </p>
 
-- 🔭 I’m currently working on [TalentBase.AI](https://github.com/Hammad8980/TalentBase.AI) , which is an online platform for Students/Teachers/Industrialists to showcase their talent!
+- 🔭 I’m currently working on **NFT-Fusion**, a decentralized marketplace empowering developers, designers, and digital artists to mint, buy, and sell code-based and creative NFTs securely on the blockchain!
 
 - 🌱 I excel in **MERN / Next.js and ASP.NET alongwith Blazor for both frontend and Backend web application**
 
@@ -26,18 +26,6 @@
 
 <hr>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad898&show_icons=true&theme=radical" alt="hammad898" />
-  <br>
-  <br>
-  ════ ⋆★⋆ ════
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad898&show_icons=true&theme=radical" alt="hammad898" />
-</p>
-
-<hr>
-
 ### Featured
 
 <p align="center">
@@ -45,17 +33,17 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=Hammad8980&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Hammad8980/Tindog">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=Tindog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Hammad8980/TalentBase.AI">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=TalentBase.AI&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Hammad8980/GameXoria">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=GameXoria&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Hammad8980/my-dashboard-app">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=my-dashboard-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Hammad8980/Dice-game">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=Dice-game&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Hammad8980/react-app-project">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Hammad8980&repo=react-app-project&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 <p align="center">
